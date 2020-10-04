@@ -1,0 +1,217 @@
+[ {
+  "id" : "d96a41a1-f3ae-11ea-8dd0-9b16bddcdc30",
+  "name" : "producto",
+  "createdDate" : 1599774288570,
+  "workspace" : "55370670-f3ae-11ea-870b-9735ecf4efed",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 43
+}, {
+  "id" : "ee5ac391-f3b4-11ea-9d48-714602dc593b",
+  "name" : "cancelamiento",
+  "createdDate" : 1599776900681,
+  "workspace" : "55370670-f3ae-11ea-870b-9735ecf4efed",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 19
+}, {
+  "id" : "f9c6b1c0-f3b5-11ea-8cd8-f9ec58c5e5e0",
+  "name" : "saldo",
+  "createdDate" : 1599777349340,
+  "workspace" : "55370670-f3ae-11ea-870b-9735ecf4efed",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 11
+}, {
+  "id" : "c73bbd81-f3b6-11ea-8cd8-f9ec58c5e5e0",
+  "name" : "informacion",
+  "createdDate" : 1599777694040,
+  "workspace" : "55370670-f3ae-11ea-870b-9735ecf4efed",
+  "properties" : {
+    "language" : "ES"
+  },
+  "posCodes" : [ {
+    "id" : "1",
+    "name" : "Pronoun",
+    "createdDate" : 0
+  }, {
+    "id" : "2",
+    "name" : "Verb",
+    "createdDate" : 0
+  }, {
+    "id" : "3",
+    "name" : "Noun",
+    "createdDate" : 0
+  }, {
+    "id" : "4",
+    "name" : "Adjective",
+    "createdDate" : 0
+  }, {
+    "id" : "5",
+    "name" : "Adverb",
+    "createdDate" : 0
+  }, {
+    "id" : "6",
+    "name" : "Adposition",
+    "createdDate" : 0
+  }, {
+    "id" : "7",
+    "name" : "Interjection",
+    "createdDate" : 0
+  }, {
+    "id" : "8",
+    "name" : "Conjunction",
+    "createdDate" : 0
+  }, {
+    "id" : "9",
+    "name" : "Determiner",
+    "createdDate" : 0
+  }, {
+    "id" : "10",
+    "name" : "Quantifier",
+    "createdDate" : 0
+  }, {
+    "id" : "0",
+    "name" : "Unknown",
+    "createdDate" : 0
+  } ],
+  "numItems" : 49
+} ]
